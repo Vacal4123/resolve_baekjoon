@@ -12,7 +12,7 @@ int cmp(const void *a, const void *b)
 {
     char *s1 = ((emp *)a)->name;
     char *s2 = ((emp *)b)->name;
-    printf("%s %s %d\n\n", a, b, strcmp(s1, s2));
+    //printf("%s %s %d\n\n", a, b, strcmp(s1, s2));
     return !strcmp(s1, s2);
 }
 
