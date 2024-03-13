@@ -1,5 +1,8 @@
 {
     "files.associations": {
         "stdlib.h": "c"
-    }
+    },
+    "powermode.enabled": true,
+    "powermode.shake.enabled": false,
+    "powermode.combo.timerEnabled": "hide"
 }
